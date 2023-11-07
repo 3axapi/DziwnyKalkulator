@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Dziwny kalkulator</string>
     <string-array name="gender">
-        <item>mężczyna</item>
+        <item>mężczyzna</item>
         <item>kobieta</item>
     </string-array>
 </resources>
